@@ -1,0 +1,27 @@
+{
+  "generator-ngx-library": {
+    "authorName": "Pratik Kelwalkar",
+    "authorEmail": "pratik.kelwalkar@metamagic.in",
+    "githubUsername": "pratikthecook",
+    "projectName": "my-sample-lib",
+    "projectVersion": "0.0.1",
+    "projectDescription": "Angular library built with ❤ using ngx-library yeoman generator.",
+    "projectKeywords": [
+      "ng",
+      "angular",
+      "library"
+    ],
+    "ngPrefix": "pat",
+    "ngVersion": "4.0.0",
+    "ngModules": [
+      "core",
+      "common",
+      "forms",
+      "http",
+      "router",
+      "platform-browser"
+    ],
+    "useGreenkeeper": true,
+    "useCompodoc": true
+  }
+}
